@@ -1,3 +1,14 @@
+body {
+text-align: center;
+font-size: 24px;
+}
+
+#container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: white;
+}
+
 h1, a { color:steelblue;
 }
 
@@ -8,8 +19,25 @@ h1, a { color:steelblue;
 
 .room {
     background-color:lightgray;
-    color: white;
+    
 }
 .red{
     color:rgb(0, 255, 234)
+}
+
+img {
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+}
+p {
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+    font-size: 1.3em;
+    line-height: 1.5rm;
+}
+
+nav a {
+    text-decoration: none;
 }

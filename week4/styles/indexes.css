@@ -5,7 +5,8 @@ body{
 .top{
     text-align: center;
 }
-.top2{
+.top{
+    color: white;
     color: white;
 }
 
@@ -20,12 +21,12 @@ img{
 }
 
 h1:hover{
-    color: white;
+    color: black;
 
 }
 
 .list{
-    margin-inline-start: 400px;
+    margin-inline-start: 350px;
     padding-inline-start: 40px;
 }
 .bottom{

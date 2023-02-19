@@ -23,6 +23,7 @@ nav a:hover{
 
 #hero-msg h1{
     text-align: center;
+    color: white;
 }
 
 #hero-msg h4 {
@@ -251,7 +252,12 @@ main section img {
     grid-row: 5/8;
     border: 10px solid #d9c2a3;
     width: 100%;
-    box-shadow: 5px 5px 10px #6f7364;;
+    box-shadow: 5px 5px 10px #6f7364;
+}
+.home-grid {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+
 }
 
 @media screen and (max-width: 900px) {

@@ -1,0 +1,39 @@
+body{
+    background-color: pink;
+}
+
+.top{
+    text-align: center;
+}
+.top{
+    color: white;
+    color: white;
+}
+
+img{
+    width: 30%;
+}
+
+.pic{
+    display: block;
+    margin: 0 auto;
+
+}
+
+h1:hover{
+    color: black;
+
+}
+
+.list{
+    margin-inline-start: 350px;
+    padding-inline-start: 40px;
+}
+.bottom{
+    color: white;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    font-size: small;
+}

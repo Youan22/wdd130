@@ -301,3 +301,40 @@ main section img {
         margin-top: 25px;
     }
 }
+
+/* Everything below is for the second page of watertafting */
+
+#River-logo 
+{
+text-align: center;
+background-color: bisque;
+}
+
+#Rivers-text 
+{
+text-align: center;
+background-color: bisque;
+margin-bottom: -200px;
+margin-top: -30px;
+
+}
+.subtitle
+{
+   font-size: 35px;
+}
+
+.subtitle1
+{
+    font-size: 35px;
+}
+
+.subtitle2
+{
+    font-size: 35px;
+    color: black;
+}
+
+.rivers-img
+{
+    margin-bottom: 30px;
+}

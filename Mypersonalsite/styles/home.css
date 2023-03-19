@@ -85,7 +85,11 @@ h1 {
 .Description {
     text-align: center;
     font-family: "Roboto";
-    font-size: 45px;
+    font-size: 1.4em;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    
 }
 .hosue_images {
     width: 400px;
